@@ -8,9 +8,9 @@ const config = {
   future: {},
 
   url: 'https://nyrietavidian.github.io',
-  baseUrl: '/rule13/',
+  baseUrl: '/TuesdayClass/',
   organizationName: 'nyrietavidian',
-  projectName: 'rule13',
+  projectName: 'TuesdayClass',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
